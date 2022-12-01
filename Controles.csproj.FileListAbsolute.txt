@@ -1,0 +1,15 @@
+C:\Users\t20083\source\repos\Controles\Controles\obj\Debug\Controles.csproj.AssemblyReference.cache
+C:\Users\t20083\source\repos\Controles\Controles\obj\Debug\App.g.cs
+C:\Users\t20083\source\repos\Controles\Controles\obj\Debug\Controles_MarkupCompile.cache
+C:\Users\t20083\source\repos\Controles\Controles\bin\Debug\Controles.exe.config
+C:\Users\t20083\source\repos\Controles\Controles\bin\Debug\Controles.exe
+C:\Users\t20083\source\repos\Controles\Controles\bin\Debug\Controles.pdb
+C:\Users\t20083\source\repos\Controles\Controles\obj\Debug\MainWindow.g.cs
+C:\Users\t20083\source\repos\Controles\Controles\obj\Debug\Controles_MarkupCompile.lref
+C:\Users\t20083\source\repos\Controles\Controles\obj\Debug\MainWindow.baml
+C:\Users\t20083\source\repos\Controles\Controles\obj\Debug\Controles.g.resources
+C:\Users\t20083\source\repos\Controles\Controles\obj\Debug\Controles.Properties.Resources.resources
+C:\Users\t20083\source\repos\Controles\Controles\obj\Debug\Controles.csproj.GenerateResource.cache
+C:\Users\t20083\source\repos\Controles\Controles\obj\Debug\Controles.csproj.CoreCompileInputs.cache
+C:\Users\t20083\source\repos\Controles\Controles\obj\Debug\Controles.exe
+C:\Users\t20083\source\repos\Controles\Controles\obj\Debug\Controles.pdb
